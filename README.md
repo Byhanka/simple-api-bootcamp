@@ -18,5 +18,5 @@ Example:
 ```
 I completed the challenge: 2
 I feel good about my code: 2
-Need to add CSS...
+Need to add CSS but JS API basics are complete...
 ```
